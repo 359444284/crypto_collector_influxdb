@@ -6,7 +6,7 @@ from cryptofeed.exchanges.binance import Binance
 from influxdb_data_translator import BookInfluxCallback, TradeInfluxCallback
 
 INFLUX_ADDR = 'http://localhost:8086'
-TOKEN = "UdsE0MwUPCxYUfCGzNcAY19OHVa5WnclHgrbnIUoMYUkPvWl0ohuaP7I_LPQGvyKIkmY1sZ14la-m74avY7xaw=="
+TOKEN = "DQE6Wdn3ZZGsOy6zF5_aMCzKNNIhzlIgmhLnvnp2DnEDIYhIugY7RcP2D7ztq69ZnH0EJh4ntM0-dUp8dSDk7w=="
 ORG = "individual"
 BUCKET = "cryptocurrency"
 
